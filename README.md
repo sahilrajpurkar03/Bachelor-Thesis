@@ -28,9 +28,10 @@ Batch: 2016 - 2020
 Thesis Title: Controlled Motion of Four-Legged Robot
 
 Authors: 
+- Sahil Rajpurkar (Roll No: 1613130)  
 - Soofiyan Atar (Roll No: 1613002)  
 - Shreyas Borse (Roll No: 1613061)  
-- Sahil Rajpurkar (Roll No: 1613130)  
+
 
 Guide: Prof. Dr. Swati Mahajan  
 ```
@@ -46,7 +47,7 @@ Guide: Prof. Dr. Swati Mahajan
   note         = {Presented at the World Academy of Science, Engineering and Technology, International Journal of Industrial and Manufacturing Engineering, Vol. 15, No. 9}
 }
 ```
-## Copyright  
-© 2020 Soofiyan Atar, Shreyas Borse, Sahil Rajpurkar  All rights reserved.
+## 
+© 2020 Sahil Rajpurkar, Soofiyan Atar, Shreyas Borse All rights reserved.
 
 *Submitted in partial fulfillment of the requirements for the degree of Bachelors in Technology.*
