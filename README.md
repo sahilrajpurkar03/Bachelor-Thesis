@@ -18,22 +18,22 @@ This project involves the design, control, and testing of a pneumatic quadruped 
 - Trotting Gaits: [`codes/4 legged walking/main.c`](codes/4%20legged%20walking/main.c)
 
 ## Project Details
+```
+University: University of Mumbai  
+Degree: Bachelors in Technology  
+Department: Electronics and Telecommunication Engineering  
+College: K. J. Somaiya College of Engineering, Mumbai-77  (Autonomous College Affiliated to University of Mumbai)  
+Batch: 2016 - 2020  
 
-**University:** University of Mumbai  
-**Degree:** Bachelors in Technology  
-**Department:** Electronics and Telecommunication Engineering  
-**College:** K. J. Somaiya College of Engineering, Mumbai-77  
-(Autonomous College Affiliated to University of Mumbai)  
-**Batch:** 2016 - 2020  
+Thesis Title: Controlled Motion of Four-Legged Robot
 
-**Thesis Title:** Controlled Motion of Four-Legged Robot
-
-## Authors  
+Authors: 
 - Soofiyan Atar (Roll No: 1613002)  
 - Shreyas Borse (Roll No: 1613061)  
 - Sahil Rajpurkar (Roll No: 1613130)  
 
-**Guide:** Prof. Dr. Swati Mahajan  
+Guide: Prof. Dr. Swati Mahajan  
+```
 
 ## Citation
 
